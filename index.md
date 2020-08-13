@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Sentiment Analysis
 
-You can use the [editor on GitHub](https://github.com/OmarEltouny78/Sentiment-Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Data Provided by DataCamp. Extract Sentiment from Stock Headlines from Facebook and Telsa
 
 ### Markdown
 
